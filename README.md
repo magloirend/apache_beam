@@ -18,4 +18,6 @@ python pipeline_to_calculate_avg_session_by_country.py \
 --save_main_session
 ```
 
+`
 ** = exemple
+`
