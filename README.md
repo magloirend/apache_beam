@@ -7,6 +7,7 @@ deployed to the cloud in GCP  with Dataflow
 
 ```
 python pipeline_to_calculate_avg_session_by_country.py \
+<<<<<<< HEAD
 --input <YOUR: GS STORAGE> : *gs://apache-beam-tuto/data/data.csv* \
 --output <YOUR: GS STORAGE> : *gs://apache-beam-tuto/data/<OUTPUT NAME>* \
 --runner DataflowRunner \
